@@ -1,0 +1,8 @@
+{
+  "statusCode": 200,
+  "body": "{\"Item\": {\"Location\": {\"S\": \"Mumbai\"}, \"LastName\": {\"S\": \"Shah\"}, \"Name\": {\"S\": \"Jay\"}}, \"ResponseMetadata\": {\"RequestId\": \"H435SAKTA0M7VL8EGDDUQG17ABVV4KQNSO5AEMVJF66Q9ASUAAJG\", \"HTTPStatusCode\": 200, \"HTTPHeaders\": {\"server\": \"Server\", \"date\": \"Fri, 20 Jan 2023 12:09:50 GMT\", \"content-type\": \"application/x-amz-json-1.0\", \"content-length\": \"79\", \"connection\": \"keep-alive\", \"x-amzn-requestid\": \"H435SAKTA0M7VL8EGDDUQG17ABVV4KQNSO5AEMVJF66Q9ASUAAJG\", \"x-amz-crc32\": \"1216511197\"}, \"RetryAttempts\": 0}}",
+  "headers": {
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Origin": "*"
+  }
+}
